@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-15T07:59:22.166Z</updated>
+  <updated>2016-12-15T11:20:50.563Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/12/14/php-form/"/>
     <id>http://yoursite.com/2016/12/14/php-form/</id>
     <published>2016-12-14T14:26:37.000Z</published>
-    <updated>2016-12-15T07:59:22.166Z</updated>
+    <updated>2016-12-15T11:20:50.563Z</updated>
     
     <content type="html"><![CDATA[<p>由于数据库作业，使得自己开始学习php</p>
 <h2 id="php表单">php表单</h2>
@@ -63,10 +63,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/12/07/hello-world/"/>
-    <id>http://yoursite.com/2016/12/07/hello-world/</id>
-    <published>2016-12-07T11:31:15.656Z</published>
-    <updated>2016-12-07T11:31:15.656Z</updated>
+    <link href="http://yoursite.com/2016/11/11/hello-world/"/>
+    <id>http://yoursite.com/2016/11/11/hello-world/</id>
+    <published>2016-11-11T14:26:37.000Z</published>
+    <updated>2016-12-15T11:23:26.790Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="quick-start">Quick Start</h2>
